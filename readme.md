@@ -1,0 +1,1 @@
+A random draft order selector to determine order of any type (draft pick among friends).
